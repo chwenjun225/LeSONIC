@@ -9,3 +9,4 @@ hf_upload*/
 **/__pycache__/
 *.pyc
 .cache/
+temp/
